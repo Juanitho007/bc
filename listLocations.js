@@ -1,4 +1,4 @@
-let stores = [
+export const stores = [
   {
     id: "1",
     name: "ANGELES 1",
