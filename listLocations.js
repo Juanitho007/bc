@@ -1,3 +1,4 @@
+export const apiKey = "AIzaSyCUoFR9YBnhq7kOxVA1YzYogk59o7hDRwM"
 export const stores = [
   {
     id: "1",
